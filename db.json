@@ -122,48 +122,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/gzJnMEMkHowkUndn9gCr8ghQPzN.jpg",
-            "genre_ids": [
-                53,
-                28,
-                18
-            ],
-            "id": 793723,
-            "original_language": "fr",
-            "original_title": "Sentinelle",
-            "overview": "Transferida para casa depois de uma missão traumatizante, uma soldado francesa usa suas habilidades letais para caçar o homem que feriu sua irmã.",
-            "popularity": 932.88,
-            "poster_path": "https://image.tmdb.org/t/p/w500/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg",
-            "release_date": "2021-03-05",
-            "title": "A Sentinela",
-            "video": false,
-            "vote_average": 6,
-            "vote_count": 342
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/d1sVANghKKMZNvqjW0V6y1ejvV9.jpg",
-            "genre_ids": [
-                16,
-                28,
-                12,
-                14,
-                18
-            ],
-            "id": 635302,
-            "original_language": "ja",
-            "original_title": "劇場版「鬼滅の刃」無限列車編",
-            "overview": "Tanjiro Kamado, junto com Inosuke Hashibira, um garoto criado por javalis que usa uma cabeça de javali, e Zenitsu Agatsuma, um garoto assustado que revela seu verdadeiro poder quando dorme, embarca no Trem Infinito em uma nova missão com o Hashira de Fogo, Kyojuro Rengoku, para derrotar um demônio que tem atormentado o povo e matado os caçadores de oni que se opõem a ele!",
-            "popularity": 918.016,
-            "poster_path": "https://image.tmdb.org/t/p/w500/m9cn5mhW519QKr1YGpGxNWi98VJ.jpg",
-            "release_date": "2020-10-16",
-            "title": "Demon Slayer: O Trem Infinito",
-            "video": false,
-            "vote_average": 8.1,
-            "vote_count": 590
-        },
-        {
-            "adult": false,
             "backdrop_path": "/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
             "genre_ids": [
                 14,

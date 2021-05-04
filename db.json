@@ -21,28 +21,6 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
-            "genre_ids": [
-                14,
-                28,
-                12,
-                878,
-                53
-            ],
-            "id": 460465,
-            "original_language": "en",
-            "original_title": "Mortal Kombat",
-            "overview": "Nova aventura baseada no videogame Mortal Kombat. Na história, um jovem que nunca treinou artes marciais acaba envolvido em um gigantesco torneio de luta envolvendo guerreiros da Terra e lutadores e outras dimensões.",
-            "popularity": 3500.808,
-            "poster_path": "https://image.tmdb.org/t/p/w500/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg",
-            "release_date": "2021-04-07",
-            "title": "Mortal Kombat",
-            "video": false,
-            "vote_average": 8.2,
-            "vote_count": 546
-        },
-        {
-            "adult": false,
             "backdrop_path": "/z7HLq35df6ZpRxdMAE0qE3Ge4SJ.jpg",
             "genre_ids": [
                 28,
@@ -61,27 +39,6 @@
             "video": false,
             "vote_average": 5.8,
             "vote_count": 402
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
-            "genre_ids": [
-                28,
-                12,
-                14,
-                878
-            ],
-            "id": 791373,
-            "original_language": "en",
-            "original_title": "Zack Snyder's Justice League",
-            "overview": "Determinado a garantir que o sacrifício final do Superman não foi em vão, Bruce Wayne alinha forças com Diana Prince com planos de recrutar uma equipe de metahumanos para proteger o mundo de uma ameaça de proporções catastróficas que se aproxima.",
-            "popularity": 2375.449,
-            "poster_path": "https://image.tmdb.org/t/p/w500/ArWn6gCi61b3b3hclD2L0LOk66k.jpg",
-            "release_date": "2021-03-18",
-            "title": "Liga da Justiça de Zack Snyder",
-            "video": false,
-            "vote_average": 8.5,
-            "vote_count": 5091
         },
         {
             "adult": false,
